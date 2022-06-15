@@ -1,0 +1,14 @@
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\Users\Fabio\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.application
